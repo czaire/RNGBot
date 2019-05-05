@@ -30,3 +30,6 @@ node_modules
 
 # the token file
 token.json
+
+# server specific data
+data.json
